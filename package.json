@@ -25,7 +25,7 @@
     "email": "westonganger@gmail.com",
     "url": "solidfoundationwebdev.com"
   },
-  "license": "Apache 2.0",
+  "license": "SEE LICENSE IN LICENSE",
   "homepage": "https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview",
   "typings": "typescript/CameraPreview.d.ts",
   "dependencies": {
